@@ -8,4 +8,3 @@ College Name: GITW
 SSLC: Ilma High School
 PUC: Shaheen pu college
 UG Degree:2nd year B.E Computer Science
-
