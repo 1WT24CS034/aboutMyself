@@ -10,4 +10,7 @@ Branch: Computer Science Engineering
 Year of Admission: 2024
 College Name: GITW
 UG Degree:3rd sem B.E
+<<<<<<< HEAD
+>>>>>>> a12c5c4 (UG Degree added successfully in aboutMyself.txt)
+=======
 >>>>>>> a12c5c4 (UG Degree added successfully in aboutMyself.txt)
