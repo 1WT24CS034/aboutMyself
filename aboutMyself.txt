@@ -1,2 +1,13 @@
+<<<<<<< HEAD
 title:Ms.
 Author name:Tahreem
+=======
+Title: Ms.
+Full Name: Tahreem Murtuza
+USN: 1WT24CS034
+Semester: Third
+Branch: Computer Science Engineering
+Year of Admission: 2024
+College Name: GITW
+UG Degree:3rd sem B.E
+>>>>>>> a12c5c4 (UG Degree added successfully in aboutMyself.txt)
