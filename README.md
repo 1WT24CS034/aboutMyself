@@ -5,7 +5,7 @@ Section : A
 Subject : Project Management with GIT
 Subject Code : BCS358C
 Academic Year : 2025-26
-:obile No : 9870563452
+Mobile No : 98705634
 My Date of Joining to GITW: 24th Sep 2024
 Mobile no : 1234567890
 
